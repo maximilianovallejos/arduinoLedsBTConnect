@@ -1,2 +1,2 @@
 # BluetoothControl
-Application to control arduino with bluetooth
+Android application to control arduino with bluetooth.
